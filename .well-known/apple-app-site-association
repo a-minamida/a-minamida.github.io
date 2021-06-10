@@ -1,0 +1,16 @@
+{
+  "applinks" : {
+    "details" : [
+      {
+        "appIDs" : [
+          "2836TKY5KG.com.mcraft.gakuwari"
+        ],
+        "components" : [
+          {
+            "/" : "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
