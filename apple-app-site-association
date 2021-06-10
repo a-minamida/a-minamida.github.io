@@ -1,16 +1,11 @@
 {
-  "applinks" : {
-    "details" : [
-      {
-        "appIDs" : [
-          "NCW9T28FV4.com.gpass.prod"
-        ],
-        "components" : [
-          {
-            "/" : "/*"
-          }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "NCW9T28FV4.com.gpass.prod",
+                "paths": [ "*" ]
+            }
         ]
-      }
-    ]
-  }
+     }
 }
